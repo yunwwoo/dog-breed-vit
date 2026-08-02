@@ -1,0 +1,8 @@
+Images/
+lists/
+vit-dog-breed/
+*.zip
+smoke_test_output/
+__pycache__/
+*.pyc
+.DS_Store
